@@ -1320,7 +1320,6 @@ input[type=number] {
         max-width: 50%;
     }
 
-    
     .make-me-flex-medium-and-up {
         display: flex;
         flex-direction: row;
